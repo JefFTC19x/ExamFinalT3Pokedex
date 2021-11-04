@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Primera App V1</string>
+    <string name="descripcion">TextView</string>
+    <string name="nombres">TextView</string>
+    <string name="color">TODO</string>
+    <string name="cara">TODO</string>
+    <string name="icon">TextView</string>
+    <string name="ybody">TextView</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="agregar_pokemon">AGREGAR POKEMON</string>
+</resources>
